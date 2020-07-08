@@ -9,6 +9,66 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+nav {
+    background: #4031B7;
+}
+
+
+.jumbotron{
+    background-color: #4031B7;
+    color: #ffffff;
+}
+
+.jumbotron img {
+    width: 100%;
+}
+
+.jumbo-img {
+    position: relative;
+}
+
+.fa-play-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+
+.icon-wrapper {
+    width: 50%;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #4031B7;
+    position: relative;
+}
+
+.icon img {
+    width: 60%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.procure-platform {
+    background: #E5E5E5;
+}
+
+.procure-platform img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#demo {
+    width: 100%;
+    height: 30vh;
+    background: url('../images/Rectangle\ 18.png') center/cover no-repeat;
+    color: #ffffff;
+}
 
 .poster {
     background: url('../images/Picture.png') center/cover no-repeat;
