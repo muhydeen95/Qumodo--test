@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.poster {
+    background: url('../images/Picture.png') center/cover no-repeat;
+}
+
+.note {
+    background: #e5e5e5;;
+}
+
+label {
+    color: #6A79DD;
+}
+
+.btn-primary {
+    padding: 15px;
+    width: 100%;
+    background: #6A79DD;
+    color: #ffffff;
+}
+
+.dropdown-toggle {
+    text-align: left;
+    border: 1px solid #e5e5e5;
+    color: #e5e5e5;
+}
